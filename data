@@ -1,0 +1,54 @@
+{
+"banner" : "ca-app-pub-3940256099942544/6300978111",
+"interstitial" : "ca-app-pub-3940256099942544/1033173712",
+"startapp" : "1234567:,
+"enabledads" : true,
+
+  "ads": [
+  	{
+      "name": "Screen Prank",
+      "url": "http://img.youtube.com/vi/qE8kaljR6TY/mqdefault.jpg",
+      "image": "assets://app/com_crack_screen_prank_bfun.png"
+    },
+	{
+      "name": "Tasya Rosmala Palapa",
+      "url": "http://img.youtube.com/vi/c_LZbGG75e0/mqdefault.jpg",
+      "image": "assets://app/com_detector_lie_game_prank.png"
+    },	
+	{
+      "name": "Dwi Ratna",
+      "url": "http://img.youtube.com/vi/pMDFgDvSUtE/mqdefault.jpg",
+      "image": "assets://app/com_eijoy_mouse_screen.png"
+    },	
+	{
+      "name": "Lilin Herlina",
+      "url": "http://img.youtube.com/vi/vx32Oqy5Hoc/mqdefault.jpg",
+      "image": "assets://app/com_eijoy_snake_screen.png"
+    },
+	{
+      "name": "Shodiq Monata",
+      "url": "http://img.youtube.com/vi/UIS2BfU6Q2o/mqdefault.jpg",
+      "image": "assets://app/com_eijoy_water.png"
+    },
+    {
+      "name": "Shodiq Monata",
+      "url": "http://img.youtube.com/vi/UIS2BfU6Q2o/mqdefault.jpg",
+      "image": "assets://app/com_fingerprinta_unlock_screen_prank.png"
+    },
+    {
+      "name": "Shodiq Monata",
+      "url": "http://img.youtube.com/vi/UIS2BfU6Q2o/mqdefault.jpg",
+      "image": "assets://app/com_fire_screen_blow_funprank.png"
+    },
+    {
+      "name": "Shodiq Monata",
+      "url": "http://img.youtube.com/vi/UIS2BfU6Q2o/mqdefault.jpg",
+      "image": "assets://app/com_piano_just4_fun.png"
+    },
+    {
+      "name": "Shodiq Monata",
+      "url": "http://img.youtube.com/vi/UIS2BfU6Q2o/mqdefault.jpg",
+      "image": "assets://app/com_sticker_sticker.png"
+    }
+  ]
+}
