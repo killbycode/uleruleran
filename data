@@ -2,7 +2,7 @@
 "banner" : "ca-app-pub-3940256099942544/6300978111",
 "interstitial" : "ca-app-pub-3940256099942544/1033173712",
 "startapp" : "1234567:,
-"enabledads" : true,
+"enabledads" : false,
 
   "ads": [
   	{
@@ -18,37 +18,37 @@
 	{
       "name": "Dwi Ratna",
       "url": "http://img.youtube.com/vi/pMDFgDvSUtE/mqdefault.jpg",
-      "image": "assets://app/com_eijoy_mouse_screen.png"
+      "image": "http://img.youtube.com/vi/pMDFgDvSUtE/mqdefault.jpg"
     },	
 	{
       "name": "Lilin Herlina",
       "url": "http://img.youtube.com/vi/vx32Oqy5Hoc/mqdefault.jpg",
-      "image": "assets://app/com_eijoy_snake_screen.png"
+      "image": "http://img.youtube.com/vi/vx32Oqy5Hoc/mqdefault.jpg"
     },
 	{
       "name": "Shodiq Monata",
       "url": "http://img.youtube.com/vi/UIS2BfU6Q2o/mqdefault.jpg",
-      "image": "assets://app/com_eijoy_water.png"
+      "image": "http://img.youtube.com/vi/UIS2BfU6Q2o/mqdefault.jpg"
     },
     {
       "name": "Shodiq Monata",
       "url": "http://img.youtube.com/vi/UIS2BfU6Q2o/mqdefault.jpg",
-      "image": "assets://app/com_fingerprinta_unlock_screen_prank.png"
+      "image": "http://img.youtube.com/vi/UIS2BfU6Q2o/mqdefault.jpg"
     },
     {
       "name": "Shodiq Monata",
       "url": "http://img.youtube.com/vi/UIS2BfU6Q2o/mqdefault.jpg",
-      "image": "assets://app/com_fire_screen_blow_funprank.png"
+      "image": "http://img.youtube.com/vi/UIS2BfU6Q2o/mqdefault.jpg"
     },
     {
       "name": "Shodiq Monata",
       "url": "http://img.youtube.com/vi/UIS2BfU6Q2o/mqdefault.jpg",
-      "image": "assets://app/com_piano_just4_fun.png"
+      "image": "http://img.youtube.com/vi/UIS2BfU6Q2o/mqdefault.jpg"
     },
     {
       "name": "Shodiq Monata",
       "url": "http://img.youtube.com/vi/UIS2BfU6Q2o/mqdefault.jpg",
-      "image": "assets://app/com_sticker_sticker.png"
+      "image": "http://img.youtube.com/vi/UIS2BfU6Q2o/mqdefault.jpg"
     }
   ]
 }
