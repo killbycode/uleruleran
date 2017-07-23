@@ -7,47 +7,47 @@
   "ads": [
   	{
       "name": "App No 1",
-      "url": "http://img.youtube.com/vi/qE8kaljR6TY/mqdefault.jpg",
+      "url": "https://play.google.com/store/apps/details?id=com.notdoppler.crashofcars",
       "image": "assets://app/apps_0.jpg"
     },
 	{
       "name": "App No 2",
-      "url": "http://img.youtube.com/vi/c_LZbGG75e0/mqdefault.jpg",
-      "image": "assets://app/apps_10.jpg"
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.swipebrick",
+      "image": "assets://app/apps_1.jpg"
     },	
 	{
       "name": "App No 3",
-      "url": "http://img.youtube.com/vi/pMDFgDvSUtE/mqdefault.jpg",
+      "url": "https://play.google.com/store/apps/details?id=com.NeverEndingMedia.KabuSan",
       "image": "assets://app/apps_2.jpg"
     },	
 	{
       "name": "App No 4",
-      "url": "http://img.youtube.com/vi/vx32Oqy5Hoc/mqdefault.jpg",
+      "url": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution",
       "image": "assets://app/apps_3.jpg"
     },
 	{
       "name": "App No 5",
-      "url": "http://img.youtube.com/vi/UIS2BfU6Q2o/mqdefault.jpg",
+      "url": "https://play.google.com/store/apps/details?id=com.carboneyed.knightsfall",
       "image": "assets://app/apps_4.jpg"
     },
     {
       "name": "App No 6",
-      "url": "http://img.youtube.com/vi/UIS2BfU6Q2o/mqdefault.jpg",
+      "url": "https://play.google.com/store/apps/details?id=com.com2us.acefishing.normal.freefull.google.global.android.common",
       "image": "assets://app/apps_5.jpg"
     },
     {
       "name": "App No 7",
-      "url": "http://img.youtube.com/vi/UIS2BfU6Q2o/mqdefault.jpg",
+      "url": "https://play.google.com/store/apps/details?id=com.match3.cakemaker",
       "image": "assets://app/apps_6.jpg"
     },
     {
       "name": "App No 8",
-      "url": "http://img.youtube.com/vi/UIS2BfU6Q2o/mqdefault.jpg",
+      "url": "https://play.google.com/store/apps/details?id=com.facebook.katana",
       "image": "assets://app/apps_7.jpg"
     },
     {
       "name": "App No 9",
-      "url": "http://img.youtube.com/vi/UIS2BfU6Q2o/mqdefault.jpg",
+      "url": "https://play.google.com/store/apps/details?id=com.bbm",
       "image": "assets://app/apps_8.jpg"
     }
   ]
