@@ -2,7 +2,7 @@
 "banner" : "ca-app-pub-3940256099942544/6300978111",
 "interstitial" : "ca-app-pub-3940256099942544/1033173712",
 "startapp" : "1234567",
-"enabledads" : false,
+"enabledads" : true,
 
   "ads": [
   	{
@@ -13,7 +13,7 @@
 	{
       "name": "App No 2",
       "url": "http://img.youtube.com/vi/c_LZbGG75e0/mqdefault.jpg",
-      "image": "assets://app/apps_1.jpg"
+      "image": "assets://app/apps_10.jpg"
     },	
 	{
       "name": "App No 3",
