@@ -8,47 +8,47 @@
   	{
       "name": "App No 1",
       "url": "https://play.google.com/store/apps/details?id=com.notdoppler.crashofcars",
-      "image": "assets://app/apps_0.jpg"
+      "image": "assets://app/apps_0.png"
     },
 	{
       "name": "App No 2",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.swipebrick",
-      "image": "assets://app/apps_1.jpg"
+      "image": "assets://app/apps_1.png"
     },	
 	{
       "name": "App No 3",
       "url": "https://play.google.com/store/apps/details?id=com.NeverEndingMedia.KabuSan",
-      "image": "assets://app/apps_2.jpg"
+      "image": "assets://app/apps_2.png"
     },	
 	{
       "name": "App No 4",
       "url": "https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution",
-      "image": "assets://app/apps_3.jpg"
+      "image": "assets://app/apps_3.png"
     },
 	{
       "name": "App No 5",
       "url": "https://play.google.com/store/apps/details?id=com.carboneyed.knightsfall",
-      "image": "assets://app/apps_4.jpg"
+      "image": "assets://app/apps_4.png"
     },
     {
       "name": "App No 6",
       "url": "https://play.google.com/store/apps/details?id=com.com2us.acefishing.normal.freefull.google.global.android.common",
-      "image": "assets://app/apps_5.jpg"
+      "image": "assets://app/apps_5.png"
     },
     {
       "name": "App No 7",
       "url": "https://play.google.com/store/apps/details?id=com.match3.cakemaker",
-      "image": "assets://app/apps_6.jpg"
+      "image": "assets://app/apps_6.png"
     },
     {
       "name": "App No 8",
       "url": "https://play.google.com/store/apps/details?id=com.facebook.katana",
-      "image": "assets://app/apps_7.jpg"
+      "image": "assets://app/apps_7.png"
     },
     {
       "name": "App No 9",
       "url": "https://play.google.com/store/apps/details?id=com.bbm",
-      "image": "assets://app/apps_8.jpg"
+      "image": "assets://app/apps_8.png"
     }
   ]
 }
